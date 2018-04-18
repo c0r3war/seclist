@@ -1,4 +1,4 @@
-# Organizing a phising campaign
+# Organizing a phishing campaign
 
  ## Tools
  
