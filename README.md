@@ -4,6 +4,8 @@
 
 [Vulnerability](vulnerability/README.md) : Vulnerability management.
 
+[Tools](tools/README.md) : Various security related tools.
+
 [Stories](stories/README.md) :  Various stories to illustrate security issues.
 
 [Misc](misc/README.md) : Miscellaneous resources.
