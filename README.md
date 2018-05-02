@@ -1,6 +1,6 @@
 # Seclist - A reference of security ressources
 
-[Awarness](awarness/README.md) : List of awarness tools and websites. Includes Phishing, MOOC, etc.
+[Awarness](awarness/README.md) : List of awarness and security training tools. Includes Phishing, MOOC, CTF, etc.
 
 [Vulnerability](vulnerability/README.md) : Vulnerability management.
 
