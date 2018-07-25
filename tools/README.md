@@ -12,3 +12,7 @@
 ## Authentication / Credential management
 
 [pGina](http://pgina.org/) : Pluggable Gina foa Windows (support for LDAP, Radius, etc on Windows environments).
+
+## Security intelligence
+
+[DNSdumpster](https://dnsdumpster.com/) : DNS Digging tool
