@@ -2,6 +2,8 @@
 
 [Awarness](awarness/README.md) : List of awarness and security training tools. Includes Phishing, MOOC, CTF, etc.
 
+[Compliance](compliance/README.md) : Compliance, referentials, etc.
+
 [Vulnerability](vulnerability/README.md) : Vulnerability management.
 
 [Tools](tools/README.md) : Various security related tools.
