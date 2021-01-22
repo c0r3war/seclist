@@ -1,4 +1,4 @@
-# Seclist - A reference of security ressources
+# Seclist - A reference list of security resources
 
 [Awarness](awarness/README.md) : List of awarness and security training tools. Includes Phishing, MOOC, CTF, etc.
 
