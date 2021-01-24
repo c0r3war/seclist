@@ -1,4 +1,9 @@
-# Non security topics
+# Various
 
-[Introduction to Windows Shellcode on Security Café](https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/) : 3 parts tutorial on creating shellcode on Windows. A bit old (2016), but good starting point.
+[Happiness](https://www.coursera.org/learn/the-science-of-well-being) : MOOC on Coursera about happyness.
+
+
+# Gamification
+
+[Ludhabreizh](https://ludhabreizh.fr/portfolio/objectif-objections/) : Board and card games to get trained on haing the appropriate behaviour in various professional situations (how to react to an objections, etc).
 
