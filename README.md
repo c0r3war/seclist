@@ -6,6 +6,8 @@
 
 [Vulnerability](vulnerability/README.md) : Vulnerability management.
 
+[Offensive Security](offensive/README.md) : Articles and tutorials about offensive security.
+
 [Tools](tools/README.md) : Various security related tools.
 
 [Stories](stories/README.md) :  Various stories to illustrate security issues.
